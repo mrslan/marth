@@ -1,6 +1,6 @@
 sprite_change_offset("idle", 22, 61);
 sprite_change_offset("hurt", 32, 52);
-sprite_change_offset("crouch", 32, 24);
+sprite_change_offset("crouch", 32, 43);
 sprite_change_offset("walk", 34, 60);
 sprite_change_offset("walkturn", 32, 52);
 sprite_change_offset("dash", 32, 48);
@@ -27,9 +27,9 @@ sprite_change_offset("waveland", 32, 43);
 sprite_change_offset("tech", 32, 52);
 
 sprite_change_offset("jab", 32, 50);
-sprite_change_offset("dattack", 32, 56);
+sprite_change_offset("dattack", 32, 66);
 sprite_change_offset("ftilt", 32, 56);
-sprite_change_offset("dtilt", 32, 52);
+sprite_change_offset("dtilt", 32, 65);
 sprite_change_offset("utilt", 32, 72);
 sprite_change_offset("nair", 32, 52);
 sprite_change_offset("fair", 32, 52);
