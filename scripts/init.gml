@@ -33,7 +33,7 @@ ledgeautodrop_timer = 0;
 char_height = 40;
 idle_anim_speed = 0.05;//0.12;
 crouch_anim_speed = .1;
-walk_anim_speed = 0.12;
+walk_anim_speed = 0.18;
 dash_anim_speed = .2;
 pratfall_anim_speed = .25;
 
