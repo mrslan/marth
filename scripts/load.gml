@@ -1,4 +1,4 @@
-sprite_change_offset("idle", 22, 61);
+sprite_change_offset("idle", 22, 68);
 sprite_change_offset("hurt", 32, 52);
 sprite_change_offset("crouch", 32, 43);
 sprite_change_offset("walk", 34, 60);
@@ -15,7 +15,7 @@ sprite_change_offset("jump", 32, 52);
 sprite_change_offset("doublejump", 32, 52);
 sprite_change_offset("walljump", 25, 52);
 sprite_change_offset("pratfall", 32, 52);
-sprite_change_offset("extra3", 25, 52);
+sprite_change_offset("extra3", 20, 54);
 sprite_change_offset("land", 32, 43);
 sprite_change_offset("landinglag", 32, 43);
 
