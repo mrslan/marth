@@ -39,7 +39,7 @@ sprite_change_offset("dair", 32, 52);
 sprite_change_offset("fstrong", 32, 56);
 sprite_change_offset("ustrong", 32, 68);
 sprite_change_offset("dstrong", 40, 58);
-sprite_change_offset("nspecial", 32, 52);
+sprite_change_offset("nspecial", 32, 88);
 sprite_change_offset("fspecial", 32, 52);
 sprite_change_offset("uspecial", 32, 74);
 sprite_change_offset("dspecial", 32, 52);
@@ -47,5 +47,3 @@ sprite_change_offset("taunt", 32, 78);
 
 sprite_change_offset("plat", 50, 0);
 
-sprite_change_offset("nspecial_proj", 64, 0);
-sprite_change_offset("zetter_proj", 64, 0);
